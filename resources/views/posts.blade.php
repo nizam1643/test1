@@ -14,7 +14,7 @@
         <p>{{ $message }}</p>
     </div>
     @endif
-ADA nizam
+ADA nizam d
     <table class="table table-bordered">
         <tr>
             <th width="20px" class="text-center">No</th>
